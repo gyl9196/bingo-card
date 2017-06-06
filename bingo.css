@@ -27,3 +27,6 @@ th,td{
 	background-color: #f66;
 }
 
+.winningBG {
+	background-image: url(image.gif);
+}
